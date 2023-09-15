@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AskMik
 - 👀 I’m interested in Blockchain Programming.
-- 🌱 I’m currently learning Blockchain.
+- 🌱 I’m currently working as blockchain dev.
+- 
 
 
 <!---
